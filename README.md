@@ -1,6 +1,4 @@
-# Mass Installer Guide
-
-## What it does:
+# Mass Installer
 Mass installer lets you install files from the web.
 You can also install multiple files, change the directory of install, and add install messages.
 
