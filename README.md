@@ -29,7 +29,8 @@ clear = clear(No parameters for this but it will only work if the parameter is c
 say = text(Sends the text "text".)
 
 [files]
-advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says "advlua.zip" you put that before the equal sign. The parameter is the directory of file to install)```
+advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says "advlua.zip" you put that before the equal sign. The parameter is the directory of file to install)
+```
 
 ## Extra info:
 Files such as the test.mi file need mi.bat to be run as administrator so keep that in mind.
