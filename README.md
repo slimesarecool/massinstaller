@@ -14,20 +14,20 @@ Start off by making a file with the extension of .mi.
 Now you can list files or functions.
 This is a example of install files from lpmlua.com:
 
-[files]
+```[files]
 advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
-lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
+lpm-installer.exe = https://lpmlua.com/lpm-installer.exe```
 
 This will install these 2 files with the appropriate name.
 Here is a example of every function:
 
-[functions]
+```[functions]
 dir = installed(Sets the directory to installed.)
 clear = clear(No parameters for this but it will only work if the parameter is clear. Clears the console.)
 say = text(Sends the text "text".)
 
 [files]
-advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says "advlua.zip" you put that before the equal sign. The parameter is the directory of file to install)
+advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says "advlua.zip" you put that before the equal sign. The parameter is the directory of file to install)```
 
 ## Extra info:
 Files such as the test.mi file need mi.bat to be run as administrator so keep that in mind.
