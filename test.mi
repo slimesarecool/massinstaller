@@ -1,0 +1,9 @@
+cmds:
+dir(directory)
+clear(clear)
+say(text)
+fileName(webLink)
+
+[files]
+advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
+lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
