@@ -14,9 +14,11 @@ Start off by making a file with the extension of .mi.
 Now you can list files or functions.
 This is a example of install files from lpmlua.com:
 
-```[files]
+```
+[files]
 advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
-lpm-installer.exe = https://lpmlua.com/lpm-installer.exe```
+lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
+```
 
 This will install these 2 files with the appropriate name.
 Here is a example of every function:
