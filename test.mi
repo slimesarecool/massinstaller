@@ -1,8 +1,8 @@
-cmds:
-dir(directory)
-clear(clear)
-say(text)
-fileName(webLink)
+[functions]
+dir = C:\
+clear = clear
+say = Test file!
+
 
 [files]
 advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
