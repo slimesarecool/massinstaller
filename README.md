@@ -18,7 +18,7 @@ advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
 lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
 ```
 
-This will install these 2 files with the appropriate name.
+The above will install these 2 files with the appropriate name.
 Here is a example of every function:
 
 ```[functions]
