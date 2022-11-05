@@ -1,3 +1,5 @@
+![mi-9](https://user-images.githubusercontent.com/99942135/200136897-8f4e08df-d273-4a9a-a710-85da0c38430a.png)
+
 # Mass Installer
 Mass installer lets you install files from the web.
 You can also install multiple files, change the directory of install, and add install messages.
