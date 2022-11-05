@@ -6,7 +6,7 @@ You can also install multiple files, change the directory of install, and add in
 
 ## How to Install and Use:
 Download it.
-Drag a .mi file onto "mi.bat".
+Drag a .mi file onto mi.bat.
 You will see it installs files from online.
 
 ## Make your Own .mi Files:
@@ -27,7 +27,7 @@ Here is a example of every function:
 [functions]
 dir = installed(Sets the directory to installed.)
 clear = clear(No parameters for this but it will only work if the parameter is clear. Clears the console.)
-say = text(Sends the text text.)
+say = text(Sends the text to the console.)
 
 [files]
 advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says advlua.zip you put that before the equal sign. The parameter is the directory of file to install)
