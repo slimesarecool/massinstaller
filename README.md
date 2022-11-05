@@ -27,10 +27,10 @@ Here is a example of every function:
 [functions]
 dir = installed(Sets the directory to installed.)
 clear = clear(No parameters for this but it will only work if the parameter is clear. Clears the console.)
-say = text(Sends the text "text".)
+say = text(Sends the text text.)
 
 [files]
-advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says "advlua.zip" you put that before the equal sign. The parameter is the directory of file to install)
+advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the parameters it says advlua.zip you put that before the equal sign. The parameter is the directory of file to install)
 ```
 
 ## Extra info:
