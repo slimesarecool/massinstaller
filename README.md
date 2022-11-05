@@ -4,7 +4,7 @@ You can also install multiple files, change the directory of install, and add in
 
 ## How to install and use:
 Download it.
-Drag the test.mi file onto "Mass Installer" or "mi.bat".
+Drag the test.mi file onto "mi.bat".
 You will see it installs files from online.
 
 ## Make your own .mi files:
