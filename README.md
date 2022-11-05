@@ -2,17 +2,17 @@
 Mass installer lets you install files from the web.
 You can also install multiple files, change the directory of install, and add install messages.
 
-## How to install and use:
+## How to Install and Use:
 Download it.
-Drag the test.mi file onto "mi.bat".
+Drag a .mi file onto "mi.bat".
 You will see it installs files from online.
 
-## Make your own .mi files:
+## Make your Own .mi Files:
 Start off by making a file with the extension of .mi.
 Now you can list files or functions.
 This is a example of install files from lpmlua.com:
 
-```
+```ini
 [files]
 advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip
 lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
@@ -21,7 +21,8 @@ lpm-installer.exe = https://lpmlua.com/lpm-installer.exe
 The above will install these 2 files with the appropriate name.
 Here is a example of every function:
 
-```[functions]
+```ini
+[functions]
 dir = installed(Sets the directory to installed.)
 clear = clear(No parameters for this but it will only work if the parameter is clear. Clears the console.)
 say = text(Sends the text "text".)
@@ -33,5 +34,5 @@ advlua.zip = https://lpmlua.com/packages/advlua/advlua.zip(At the end of the par
 ## Extra info:
 Files such as the test.mi file need mi.bat to be run as administrator so keep that in mind.
 
-## Confused:
+## Confused?:
 Send me a message on discord: slimesarecool#7034
